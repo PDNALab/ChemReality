@@ -27,6 +27,7 @@ Example of complex.fasta:
 
 >seq
 NLQSSIVKFKKPLPLTQPG:SEEEDKCKPMSYEEKRQLSLDINKLPGEKLGRVVHIIQSREPSLKNSNPDEIEIDFETLKPSTLRELERYVTSCLRKKRKPQA:NLQSSIVKSKKPLPLTQPG
+
 ---Peptide 1-------|                    RECEPTOR				                       |-----PEPTIDE 2-----
 
 Note: the ':' separates the protein sequence from the peptide

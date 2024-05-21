@@ -16,7 +16,7 @@ colabfold_batch complex.a3m results --model-type 'alphafold2_ptm' --msa-mode 'mm
 Here, 'results' is the output directory name created during the run, containing predicted structures and their plDDT scores.
 
 ### Analysis of Results:
-Students can use Nanome (VR) [Refer to the 'Nanome README' on how to use) to visualize the top 5 ranked PDBs and identify the best peptide designs.
+Students can use Nanome (VR) to visualize the top 5 ranked PDBs and identify the best peptide designs.
 
 ## Miscellaneous
 ### To Generate complex.a3m:

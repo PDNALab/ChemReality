@@ -29,9 +29,7 @@ Example of complex.fasta:
 NLQSSIVKFKKPLPLTQPG:SEEEDKCKPMSYEEKRQLSLDINKLPGEKLGRVVHIIQSREPSLKNSNPDEIEIDFETLKPSTLRELERYVTSCLRKKRKPQA:NLQSSIVKSKKPLPLTQPG
 
 Peptide 1: NLQSSIVKFKKPLPLTQPG
-
 Receptor : SEEEDKCKPMSYEEKRQLSLDINKLPGEKLGRVVHIIQSREPSLKNSNPDEIEIDFETLKPSTLRELERYVTSCLRKKRKPQA
-
 Peptide 2: NLQSSIVKSKKPLPLTQPG
 
 Note: the ':' separates the protein sequence from the peptide
@@ -45,7 +43,7 @@ Note: the ':' separates the protein sequence from the peptide
 
 References:
 
-1. Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., ... & Hassabis, D. (2021). Highly accurate protein structure prediction with AlphaFold. Nature, 596(7873), 583-589. 
-2.Chang, L., & Perez, A. (2023). "Ranking Peptide Binders by Affinity with AlphaFold." Angewandte Chemie, 135(7), e202213362.
+1. Jumper, J., Evans, R., Pritzel, A., Green, T., Figurnov, M., Ronneberger, O., ... & Hassabis, D. (2021). Highly accurate protein structure prediction with AlphaFold. Nature, 596(7873), 583-589.
+2. Chang, L., & Perez, A. (2023). "Ranking Peptide Binders by Affinity with AlphaFold." Angewandte Chemie, 135(7), e202213362.
 3. Mirdita, Milot, Konstantin Schütze, Yoshitaka Moriwaki, Lim Heo, Sergey Ovchinnikov, and Martin Steinegger. "ColabFold: making protein folding accessible to all." Nature methods 19, no. 6 (2022): 679-682.
 

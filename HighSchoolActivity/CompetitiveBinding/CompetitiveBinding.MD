@@ -1,4 +1,4 @@
-# Competitive Binding Using ColabFold
+# Protocol for running AlphaFold Competitive Binding Assay (AF-CBA)
 
 After designing potential peptide candidates through point mutation,the next crucial step is to perform competitive binding to identify the most effective peptide. 
 
